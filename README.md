@@ -2,7 +2,7 @@
 
 > An Elixir wrapper to control Z-Wave Networks via a Z-Wave Controller
 
-_This package is highly experimental as of now and only implements features necessary for CasaIQ_
+_This package is highly experimental as of now and only implements features necessary for Product I am working._
 
 ## Installation
 
